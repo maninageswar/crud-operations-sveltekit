@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Product 1",
+            "price": 700,
+            "description": "Description 1"
+        },
+        {
+            "id": 2,
+            "title": "Product 2",
+            "price": 1050,
+            "description": "Description 2"
+        },
+        {
+            "id": 3,
+            "title": "Product 3",
+            "price": 2600,
+            "description": "Description 3"
+        }
+    ],
+    "featured-products": [
+        {
+            "id": 1,
+            "title": "Featured Product 1",
+            "price": 700,
+            "description": "Description 1"
+        },
+        {
+            "id": 2,
+            "title": "Featured Product 2",
+            "price": 1050,
+            "description": "Description 2"
+        },
+        {
+            "id": 3,
+            "title": "Featured Product 3",
+            "price": 2600,
+            "description": "Description 3"
+        }
+    ],
+    "most-active-stock": {
+        "id": 1,
+        "symbol": "STOCK A updated",
+        "price": 351.0
+    },
+    "top-gaining-stock": {
+        "id": 2,
+        "symbol": "STOCK B",
+        "price": 50.0
+    },
+    "top-losing-stock": {
+        "id": 3,
+        "symbol": "STOCK C updated",
+        "price": 100.0
+    },
+    "stocks": [
+        {
+            "id": 1,
+            "symbol": "STOCK D",
+            "price": 20045.0
+        },
+        {
+            "id": 2,
+            "symbol": "STOCK E",
+            "price": 12012.0
+        },
+        {
+            "id": 3,
+            "symbol": "STOCK F",
+            "price": 340000000000000.0
+        }
+    ],
+    "postcodes": [
+        { "id": "1", "city": "New York", "country": "United States" },
+        { "id": "2", "city": "London", "country": "United Kingdom" },
+        { "id": "3", "city": "New Delhi", "country": "India" }
+    ]
+}
